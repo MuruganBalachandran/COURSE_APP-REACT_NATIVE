@@ -1,3 +1,5 @@
+# **Course App**
+
 ![CourseApp](https://github.com/user-attachments/assets/9c514f2e-fec3-473a-ade0-89d13a35e3c1)
 
 ## Getting Started
